@@ -1,0 +1,14 @@
+.streamlit/secrets.toml
+.env
+*.xlsx
+*.xls
+*.csv
+!sample_files/*.xlsx
+uploads/
+exports/
+logs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
